@@ -7,13 +7,13 @@ Unit testing example by using Jest & TypeScript
 Clone the project
 
 ```bash
-  git clone https://github.com/murathan/binary-to-decimal-converter.git
+  git clone https://github.com/ozanbatuhankurucu/TypeScript-Unit-Testing.git
 ```
 
 Go to the project directory
 
 ```bash
- cd binary-to-decimal-converter
+ cd TypeScript-Unit-Testing
 ```
 
 Install dependencies
@@ -22,7 +22,7 @@ Install dependencies
   npm install
 ```
 
-Run TypeScript compiler to convert TS file to JS file
+Run TypeScript compiler to convert TS files to JS files
 
 ```bash
   tsc

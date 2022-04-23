@@ -1,4 +1,4 @@
-import { add } from '../index'
+import { add } from '../addFunction'
 
 describe('testing index file', () => {
   test('empty string should result in zero', () => {
